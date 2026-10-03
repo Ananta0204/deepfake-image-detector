@@ -49,7 +49,8 @@ Proyek ini dikembangkan sebagai pemenuhan Tugas Kelompok Mata Kuliah **Kecerdasa
        ▼
 [ Dashboard Visualisasi Streamlit ]
 
-🚀 Panduan Instalasi & Penggunaan
+```
+##🚀 Panduan Instalasi & Penggunaan
 1. Kloning Repository
 git clone https://github.com/Ananta0204/deepfake-image-detector.git
 cd deepfake-image-detector
@@ -70,7 +71,7 @@ pip install -r requirements.txt
 streamlit run app.py
 Aplikasi akan otomatis berjalan pada peramban web di alamat: http://localhost:8501.
 
-📁 Struktur Direktori Proyek
+##📁 Struktur Direktori Proyek
 deepfake-image-detector/
 │
 ├── app.py              # Logika utama aplikasi, pipeline AI, dan antarmuka Streamlit
